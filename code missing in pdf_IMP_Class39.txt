@@ -1,0 +1,15 @@
+1)Add below code under sketch.js file.
+var track, car1_img, car2_img, car3_img, car4_img;
+
+2)Below code is optional either use this or refer pdf:
+background(rgb(198,135,103));
+
+
+3)Also add below to Sketch.js
+if(gameState === 2)
+{
+    game.end();
+  }
+
+4)Ignore line99 for page11 of pdf.
+
